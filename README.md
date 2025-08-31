@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @perska124
-- 👀 I’m interested in JS,TS mainly in Vue.js apps - work, and also Unity gamedev - after work.
-- 💞️ I’m looking to collaborate on Vue libraries or Unity small dev project.
+- 👀 I’m mostly developing JS,TS apps in Angular or Vue.js. Im also exploring treejs in my free time.
 - 📫 How to reach me - why would you?
 
 <!---
